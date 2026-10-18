@@ -1,1 +1,10 @@
-this Document expalin the change history of the project 
+# Revision Log & Change History
+
+All notable changes to the TRACE project and its documentation will be documented in this file.
+
+## [v0.1.0] - 2026-10-18
+### Added
+- Initialized public GitHub repository.
+- Created `docs/requirements.md` detailing problem statement, user roles, FRs, and NFRs.
+- Created `planning/PRODUCT_BACKLOG.md` to track agile tasks.
+- Added `README.md` and repository folder structure.
