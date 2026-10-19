@@ -6,9 +6,9 @@
 **Course:** Software Construction and Development (SCD) - IMSCIENCES  
 
 ## 1. Project Team Details
-* **Project Lead:** Muhammad Ihtesham (GitHub: ihtesham267)
-* **Team Member:** Atizaz (GitHub: atizazmalik91)
-* **Team Member:** Ghazal (GitHub: ghazalk350)
+* **Team Member 1:** Muhammad Ihtesham (GitHub: ihtesham267)
+* **Team Member 2:** Atizaz shah (GitHub: atizazmalik91)
+* **Team Member 3:** Ghazal khan(GitHub: ghazalk350)
 
 ## 2. Problem Statement
 In many software development projects, bug reporting and quality assurance tasks are scattered across emails, spreadsheets, and informal chat messages. This fragmented approach leads to lost bug reports, unclear ownership of issues, difficulty tracking the status of fixes, and a lack of centralized visibility into the overall health of the software. TRACE aims to solve this by providing a unified, centralized platform dedicated to tracking software defects from initial discovery to final resolution.
