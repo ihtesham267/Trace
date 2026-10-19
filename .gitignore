@@ -1,3 +1,15 @@
-__pycache__/
-.venv/
+# Environments
 .env
+.venv
+env/
+venv/
+ENV/
+
+# Python generated files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
