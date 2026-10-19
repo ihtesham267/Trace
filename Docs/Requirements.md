@@ -43,7 +43,20 @@ In many software development projects, bug reporting and quality assurance tasks
 | **NFR-03** | **Maintainability:** The backend must be built using modular Python/Flask architecture to allow for easy future enhancements. |
 | **NFR-04** | **Reliability:** The system must gracefully handle invalid data inputs (e.g., empty bug descriptions) using proper form validation without crashing. |
 
-## 6. Assumptions, Constraints, and Limitations
+ 6. Prioritized Features / Product Backlog
+This backlog outlines the planned features in order of development priority.
+
+| ID | Feature / Task | Priority | Status |
+| :--- | :--- | :--- | :--- |
+| *T-01* | Repository setup, documentation, and versioning | High | In Progress |
+| *T-02* | Database schema design and Supabase integration | High | Backlog |
+| *T-03* | User authentication and role management module | High | Backlog |
+| *T-04* | Bug reporting and assignment functionality | High | Backlog |
+| *T-05* | Bug lifecycle tracking (status updates & verification) | High | Backlog |
+| *T-06* | Dashboard for bug statistics and project health | Medium | Backlog |
+| *T-07* | Commenting system for individual bug tickets | Low | Backlog |
+
+## 7. Assumptions, Constraints, and Limitations
 **Assumptions:**
 * All users will access the system through modern web browsers.
 * The development team has consistent internet access to interact with GitHub and the Supabase backend.
